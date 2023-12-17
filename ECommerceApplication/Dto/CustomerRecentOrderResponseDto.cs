@@ -11,6 +11,6 @@ namespace ECommerceApplication.Dto
         public CustomerDto? Customer { get; set; }
 
         public OrderDto? Order { get; set; }
-        //public IEnumerable<OrderItemDto>? OrderItems { get; set; }
+       
     }
 }
